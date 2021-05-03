@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933719459977",
+    "project_id": "timelist-journal",
+    "storage_bucket": "timelist-journal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933719459977:android:65e53d8dfaa1b910a45e58",
+        "android_client_info": {
+          "package_name": "net.catfishinteractive.timelist_journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933719459977-fp45hn6575js3qm8pnaoi8d7bg8vfqhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9b2H4enu4hISSzUt7YAo9A5yyGi_GkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933719459977-fp45hn6575js3qm8pnaoi8d7bg8vfqhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
